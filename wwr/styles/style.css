@@ -224,3 +224,43 @@ main section img {
         margin-top: 25px;
     }
 }
+.info {
+text-align: center;
+}
+#tittle_banner {
+    background-color: #5a7d9b;
+    margin-top: 20px;
+    line-height: 1.5em;
+    padding: 10px;
+    grid-column: 6/10;
+    grid-row: 6/7;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+#tittle_banner h2 {
+    font-family: 'Trebuchet MS', Arial, Times;
+    color: #ffffff;
+    padding: 10px;
+    font-size: 25px;
+}
+#faq_info {
+    font-family: 'Verdana', Arial, Times;
+    font-size: 14px;
+    padding-top: 30px;
+    margin: 5px 70px 5px 70px;
+    line-height: 1.5em;
+}
+#lower_banner {
+    background-color: #71aca6;
+    margin-top: 100px;
+    line-height: 1.5em;
+    padding: 10px;
+    grid-column: 6/10;
+    grid-row: 6/7;
+    box-shadow: 5px 5px 10px #6f7364
+}
+#lower_banner h3 {
+    font-family: 'Trebuchet MS', Arial, Times;
+    color: #ffffff;
+    padding: 0px;
+    font-size: 20px;
+}
