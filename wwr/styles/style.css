@@ -264,3 +264,35 @@ text-align: center;
     padding: 0px;
     font-size: 20px;
 }
+#contact_form {
+    text-align: center;
+}
+ul {
+    list-style-type:  none;
+    padding: 0;
+    margin: 0;
+}
+textarea {
+    resize: both;
+    vertical-align: top;
+    overflow: auto;
+    width: 50%;
+    height: 150px;
+}
+#contact_us_text {
+    text-align: center;
+    padding-top: 100px;
+}
+#feedback {
+    background-color: antiquewhite;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: .5em;
+    /* make this element invisible until we are ready for it */
+    display: none;      
+}
+.moveDown {
+    margin-top: 3em;
+}
