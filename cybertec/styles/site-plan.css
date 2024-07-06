@@ -173,3 +173,12 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+nav a {
+  text-align: center;
+  color: #ffffff;
+}
