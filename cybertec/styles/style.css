@@ -15,8 +15,7 @@ nav a:hover {
 nav {
     display: flex;
     justify-content: space-around;
-    width: 100%;
-    margin: 0;
+    align-items: center;
 }
 header {
     background-color: #992626;
@@ -112,7 +111,7 @@ input[type=text], select, textarea{
   
   /* Style the submit button */
   input[type=submit] {
-    background-color: #82b1d8;
+    background-color: #992626;
     color: white;
     padding: 12px 20px;
     border: none;
