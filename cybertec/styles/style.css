@@ -155,3 +155,51 @@ input[type=text], select, textarea{
       margin-top: 0;
     }
   }
+  #product_tittle {
+    text-align: center;
+    font-family: 'Verdana', Arial, Times;
+    padding: 50px;
+  }
+  #product_tittle h4 {
+    background-color: #82b1d8;
+    padding: 20px;
+  }
+#product_tittle img {
+    border: solid #c74c43 10px;
+}
+
+  #explanation {
+    font-family: 'Trebuchet MS', Arial, Times;
+    text-align: center;
+    padding: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+#explanation img {
+    border: solid #c74c43 10px;
+}
+#more_info {
+    text-align: center;
+    font-family: 'Trebuchet MS', Arial, Times;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(115, 209, 72);
+    border: solid rgb(115, 209, 72) 5px;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+ul {
+    list-style: none;
+}
+#specs {
+    text-align: center;
+    font-family: 'Trebuchet MS', Arial, Times;
+    padding: 15px;
+}
+#specs p {
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #82b1d8;
+}
