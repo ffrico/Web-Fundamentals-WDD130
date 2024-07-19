@@ -172,8 +172,8 @@ input[type=text], select, textarea{
     font-family: 'Trebuchet MS', Arial, Times;
     text-align: center;
     padding: 25px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
   }
 #explanation img {
     border: solid #c74c43 10px;
@@ -202,4 +202,13 @@ ul {
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: #82b1d8;
+}
+#specs h4 {
+  background-color: rgb(115, 209, 72);
+  border: solid rgb(115, 209, 72) 5px;
+  border-radius: 5px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
